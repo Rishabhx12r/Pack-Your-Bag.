@@ -209,6 +209,9 @@
   .logo {
     font-size: 7.7vw;
   }
+  .slider .slide {
+    height: 85%;
+  }
 
   .navbar i {
     font-size: 7.7vw;
@@ -216,23 +219,30 @@
   .penetrate-blur h1 {
     font-size: 25.25vw;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
-    margin-bottom: 10vw;
+    margin-bottom: 40vw;
   }
   .right-info h1 {
     font-size: 25.25vw;
-    margin-bottom: 10vw;
+    margin-bottom: 40vw;
+  }
+  .content .btn {
+    padding: 7px 12px;
+    font-size: 13px;
   }
   .right-info h3 {
     font-size: 10.06vw;
-    margin-bottom: 8vw;
+    margin-bottom: 40vw;
   }
   .content p {
     font-size: 3vw;
   }
+
   .navigation span {
-    width: 45px;
-    height: 45px;
+    width: 38px;
+    height: 33px;
+    margin-bottom: 85px;
   }
+
   .content h3 {
     font-size: 14px;
   }
